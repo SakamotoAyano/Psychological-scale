@@ -2,8 +2,8 @@
     header('X-Frame-Options: SAMEORIGIN');
     // URLの復号化
     $method = 'AES-256-CTR';
-    $key = 'pass';
-    $iv = '1010101010101010';
+    $key = '****';
+    $iv = '****';
     $decrypt_score = openssl_decrypt(
         $_GET["score"],
         $method,
