@@ -1,0 +1,16 @@
+body{
+    margin:0%;
+    padding:5% 10%;
+}
+h2{
+    font-size:1.2em;
+}
+h3{
+    font-size:1.05em;
+}
+.question{
+    padding-bottom:15px;
+}
+.subscale{
+    padding-bottom:15px;
+}
